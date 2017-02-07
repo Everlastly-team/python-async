@@ -3,7 +3,7 @@ Everlastly API for Python. Notarize data using the blockchain. Synchronous versi
 
 ## Installation
 ```
-pip install everlastly
+pip install everlastly_async
 ```
 ## Usage
 ```python
